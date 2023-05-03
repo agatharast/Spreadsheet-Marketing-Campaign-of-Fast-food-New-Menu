@@ -1,6 +1,5 @@
 # Spreadsheet
 # Marketing Campaign of Fast-food New Menu
-Analysis for testing several marketing campaigns for a new menu by introducing it at randomly selected markets and tracking the weekly sales
 
 ### Background:
 A fast-food chain plans to add a new item to its menu. 
