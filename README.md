@@ -16,4 +16,4 @@ In order to determine *__*which promotion has the greatest effect on sales*__*, 
 - Insights and Recommendations
 
 ### Project Slide
-Check full slide in here: [Spreadsheet Deck]()
+Check full slide in here: [Spreadsheet Deck](https://docs.google.com/presentation/d/1H8b06K-aJYMRynoPqb1PI3n7gTFNiizwhtAlMC392UE/edit?usp=share_link)
